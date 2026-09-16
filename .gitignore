@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+__pycache__/
+*.csv
+.ipynb_checkpoints/
+app.py
+kampanya_onerileri.ipynb
+kampanya_onerileri.csv
